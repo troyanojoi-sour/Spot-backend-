@@ -4,11 +4,11 @@ API REST construida con **Node.js, Express y TypeScript** para el backend de **S
 
 ---
 
-## 🛠️ Stack y Requisitos
+## 🛠️ Stack 
 
 - **Entorno**: Node.js (v18+)
 - **Base de Datos**: PostgreSQL (v14+) + **PostGIS** habilitado
-- **Pasarela de Pago**: Stripe Connect (Cuentas Express)
+- **Pasarela de Pago**: Stripe Connect 
 - **Notificaciones**: Firebase Admin SDK (Cloud Messaging)
 
 ---
